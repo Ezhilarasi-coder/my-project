@@ -13,3 +13,9 @@ This documentation is created for my OSS lab exercise.
 ## Usage
 
 This project uses MkDocs for documentation.
+## Installation
+
+To install MkDocs, use the following command:
+
+```bash
+pip install mkdocs
